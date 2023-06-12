@@ -25,7 +25,11 @@
         "leetcode.vscode-leetcode",
         "esbenp.prettier-vscode",
         "golang.go"
-      ]
+      ],
+      "settings": {
+        "leetcode.workspaceFolder": "/workspaces/leetcode/leetcode",
+        "leetcode.defaultLanguage": "golang"
+      }
     }
   }
 
